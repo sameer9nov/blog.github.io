@@ -224,9 +224,10 @@ ul.share-icons li > * .label {
  
 .share-btn {
 	display: inline-block;
+	/*margin-left: 350px;*/
 	color: #ffffff;
 	border: none;
-	border-radius: 4px;
+	border-radius: 10px;
 	box-shadow: 0 2px 0 0 rgba(0,0,0,0.2);
 	outline: none;
 	text-align: center;
